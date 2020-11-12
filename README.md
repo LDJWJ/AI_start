@@ -2,6 +2,7 @@
 
 ### 나의 홈페이지
   * 나의 홈페이지 주소 : https://ldjwj.github.io/AI_start/
+  * 나의 GitHub 레포지토리 주소 : https://github.com/LDJWJ/AI_start
 
 ### 시각화 프로젝트 
   * IRIS 데이터 분석해 보기 - 연결하기[LINK](https://ldjwj.github.io/AI_start/FirstStep_DataVis01.html)
